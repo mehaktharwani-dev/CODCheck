@@ -1,0 +1,6 @@
+{
+  "name": "CODCheck — Pakistan Courier Payment Reconciliation",
+  "description": "Reconciliation and dispute intelligence software for Pakistani e-commerce and Instagram sellers shipping COD via Trax, PostEx, TCS, Leopards, and Call Courier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
